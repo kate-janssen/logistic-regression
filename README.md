@@ -2,6 +2,7 @@
 This notebook uses logistic regression to predict excessive absenteeism in the workplace. It includes data cleaning and preprocessing, modeling, model evaluation and suggested future work to improve the model. 
 
 ## Structure of the Project
+The data for this project came from The Data Science Course 2019: Complete Data Science Bootcamp which I completed through Udemy. 
 The notebook is made up of the following sections:
 
 ### Data Cleaning and Proprocessing
